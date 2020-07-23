@@ -1,0 +1,17 @@
+{
+  "name": "Session4Blockchain",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Youssef",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "conv": "^0.4.1",
+    "crev": "0.0.0",
+    "crypto": "^1.0.1"
+  }
+}
